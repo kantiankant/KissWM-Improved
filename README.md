@@ -2,7 +2,6 @@
 
 A minimal X11 BSP tiling window manager modelled directly on [bspwm](https://github.com/baskerville/bspwm). It implements the same binary space partition tree layout, the same directional focus model, and the same tag-based window organisation, with a reduced feature set and a single-binary architecture. If you need full bspwm functionality, multi-monitor support, node rules, `bspc` scripting and whatnot, just use bspwm instead.
 
-2,222 lines of C. Compiles in under a second. ~3 MB RAM usage.
 It's essentially a really light clone of bspwm and that's about it. Its codebase is also a lot smaller, which I guess is either an advantage or disadvantage depending on who you ask.
 
 ---
