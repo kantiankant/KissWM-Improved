@@ -65,7 +65,7 @@ are not this project's responsibility.
 
 ```sh
 mkdir -p ~/.config/kisswm
-cp /usr/local/share/kisswm/kisswmrc.example ~/.config/kisswm/kisswmrc
+cp KissWM-Improved/kisswmrc.example ~/.config/kisswm/kisswmrc
 ```
 
 ### grammar

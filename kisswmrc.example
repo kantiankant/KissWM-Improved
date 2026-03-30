@@ -1,13 +1,9 @@
-# kisswmrc
-# ~/.config/kisswm/kisswmrc
-#
 # Syntax:  M-key = action or command
 #   M / 4  = Super
 #   A      = Alt
 #   C      = Ctrl
 #   S      = Shift
 #
-# Hot-reload: kisswmctl reload
 
 # ── tags ──────────────────────────────────────────────────────────────
 tag = 9
@@ -59,7 +55,7 @@ M-S-7   = move-7
 M-S-8   = move-8
 M-S-9   = move-9
 
-# ── media (XF86 — industry standard, as it should be) ─────────────────
+# ── media ────────────────
 XF86-AudioMute         = pamixer -t
 XF86-AudioLowerVolume  = pamixer -d 5
 XF86-AudioRaiseVolume  = pamixer -i 5
