@@ -1,6 +1,6 @@
 # kisswm
 
-![screenshot](/assets/logo.svg)
+![screenshot](/assets/logo.png)
 
 A minimal X11 BSP tiling window manager modelled directly on [bspwm](https://github.com/baskerville/bspwm). It implements the same binary space partition tree layout, the same directional focus model, and the same tag-based window organisation, with a reduced feature set and a single-binary architecture. If you need full bspwm functionality, multi-monitor support, node rules, `bspc` scripting and whatnot, just use bspwm instead.
 
